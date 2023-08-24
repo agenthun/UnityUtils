@@ -1,0 +1,16 @@
+{
+  "name": "Http.ManagerExt.Runtime",
+  "rootNamespace": "",
+  "references": [
+    "Http.Manager.Runtime"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

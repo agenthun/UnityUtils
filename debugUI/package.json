@@ -1,0 +1,14 @@
+{
+  "name": "com.agenthun.debug.ui",
+  "displayName": "DebugUI",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "license": "MIT",
+  "description": "DebugUI",
+  "dependencies": {
+  },
+  "author": {
+    "name": "agenthun",
+    "email": "hun333@126.com"
+  }
+}

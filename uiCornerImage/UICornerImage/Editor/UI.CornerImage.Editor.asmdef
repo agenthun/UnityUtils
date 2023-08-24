@@ -1,0 +1,6 @@
+{
+  "name": "UI.CornerImage.Editor",
+  "references": [
+    "UI.CornerImage.Runtime"
+  ]
+}
